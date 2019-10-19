@@ -17,9 +17,14 @@ export class AppComponent {
       icon: 'home'
     },
     {
-      title: 'List',
+      title: 'Quality',
       url: '/list',
-      icon: 'list'
+      icon: 'ios-pie'
+    },
+    {
+      title: 'Water Usage Statistics',
+      url: '/quantity',
+      icon: 'ios-water'
     }
   ];
 
